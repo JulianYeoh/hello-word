@@ -1,4 +1,5 @@
 hello-word
 ==========
 
-This is my first demo on GitHub.
+Hi guys!
+Julian here, this is my first demo on GitHub. I like JS, jQuery, AngularJS.
